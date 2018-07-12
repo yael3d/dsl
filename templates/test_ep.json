@@ -1,0 +1,14 @@
+{
+	"objects": [{
+		"applications1": ["Local|dsl-appa-15"],
+		"environments": [],
+		"description": "ep description",
+		"name": "ep1 testing",
+		"kind1": "Endpoint",
+		"plugin": "Slack/1.0",
+		"type": "Slack",
+		"parameters": {
+			"webhookUrl": "slack url"
+		}
+	}]
+}
