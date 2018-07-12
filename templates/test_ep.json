@@ -1,14 +1,14 @@
 {
 	"objects": [{
-		"applications1": ["Local|dsl-appa-15"],
+		"applications": ["Local|dsl-appa-15"],
 		"environments": [],
-		"description": "ep description",
-		"name": "ep1 testing",
+		"name": "sdsad",
 		"kind": "Endpoint",
-		"plugin": "Slack/1.0",
-		"type": "Slack",
+		"plugin": "BlazeMeter/2.1",
+		"type": "BlazeMeter",
 		"parameters": {
-			"webhookUrl": "https://hooks.slack.com/services/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"
+			"authType": "Legacy",
+			"url": "https://a.blazemeter.com"
 		}
 	}]
 }
