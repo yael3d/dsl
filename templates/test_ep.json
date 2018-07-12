@@ -8,7 +8,7 @@
 		"plugin": "Slack/1.0",
 		"type": "Slack",
 		"parameters": {
-			"webhookUrl": "slack url"
+			"webhookUrl": "https://hooks.slack.com/services/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"
 		}
 	}]
 }
