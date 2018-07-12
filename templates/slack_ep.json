@@ -2,7 +2,7 @@
 	"objects": [{
 		"applications": [],
 		"environments": [],
-		"name": "slack ep",
+		"xxx": "slack ep",
 		"kind": "Endpoint",
 		"plugin": "Slack/1.0",
 		"type": "Slack",
