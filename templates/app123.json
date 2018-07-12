@@ -1,16 +1,16 @@
 {
 	"objects": [{
-		"name1": "Yaeli App12",
+		"name1": "Yael App123",
 		"kind": "Application"
 	},
 	{
-		"applications": ["Local|Yaeli App12"],
+		"applications": ["Local|Yael App123"],
 		"name": "env2",
 		"kind": "Environment"
 	},
 	{
-		"applications": ["Local|Yaeli App12"],
+		"applications": ["Local|Yael App123"],
 		"name": "env1",
 		"kind": "Environment"
 	}]
-
+}
