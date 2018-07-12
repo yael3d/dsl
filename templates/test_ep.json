@@ -4,7 +4,7 @@
 		"environments": [],
 		"description": "ep description",
 		"name": "ep1 testing",
-		"kind1": "Endpoint",
+		"kind": "Endpoint",
 		"plugin": "Slack/1.0",
 		"type": "Slack",
 		"parameters": {
