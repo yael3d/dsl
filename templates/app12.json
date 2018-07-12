@@ -1,7 +1,7 @@
 {
 	"objects": [{
 		"name": "Yaeli App12",
-		"kind": "Application"
+		"kind": "Application1"
 	},
 	{
 		"applications": ["Local|Yaeli App12"],
