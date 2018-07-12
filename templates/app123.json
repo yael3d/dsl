@@ -1,7 +1,7 @@
 {
 	"objects": [{
 		"name": "Yael App123",
-		"kind": "Release"
+		"kind": "Application
 	},
 	{
 		"applications": ["Local|Yael App123"],
