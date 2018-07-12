@@ -3,7 +3,7 @@
 		"applications": ["Local|dsl-appa-15"],
 		"environments": [],
 		"name": "sdsad",
-		"kind": "Endpoint",
+		"kind": "Endpoint132",
 		"plugin": "BlazeMeter/2.1",
 		"type": "BlazeMeter",
 		"parameters": {
