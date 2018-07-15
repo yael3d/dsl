@@ -2,8 +2,8 @@
 	"objects": [{
 		"applications": ["Local|dsl-appa-15"],
 		"environments": [],
-		"name": "sdsad",
-		"kind": "Release",
+		"name1": "sdsad",
+		"kind": "Endpoint",
 		"plugin": "BlazeMeter/2.1",
 		"type": "BlazeMeter",
 		"parameters": {
